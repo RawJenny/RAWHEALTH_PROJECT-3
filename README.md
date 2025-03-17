@@ -1,5 +1,5 @@
-HEALTHCARE PATIENT BILLING AND ADMISSION ANA![HEALTHCARE DASHBOARD BY RAWJENNY](https://github.com/user-attachments/assets/25e96045-036b-45a8-ae57-f09e7914689d)
-LYSIS REPORT FOR 2019-2024: This analysis examines patient medical records over a defined period, focusing on demographic profiles, prevalent medical conditions, treatment costs, and admission types, and how these factors influence the efficiency of healthcare delivery and financial management within medical institutions.
+HEALTHCARE PATIENT BILLING AND ADMISSION ANALYSIS REPORT FOR 2019-2024:![HEALTHCARE DASHBOARD BY RAWJENNY](https://github.com/user-attachments/assets/25e96045-036b-45a8-ae57-f09e7914689d)
+ This analysis examines patient medical records over a defined period, focusing on demographic profiles, prevalent medical conditions, treatment costs, and admission types, and how these factors influence the efficiency of healthcare delivery and financial management within medical institutions.
 
 Below are my insights/observations and Recommendation:
 
